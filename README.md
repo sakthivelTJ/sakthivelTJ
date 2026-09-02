@@ -17,7 +17,57 @@
 
 ---
 
-## 🧑‍💻 About Me
+# 🧭 Navigation
+
+<div align="center">
+
+<a href="#-about-me">
+<img src="https://img.shields.io/badge/About_Me-00F7FF?style=for-the-badge" />
+</a>
+
+<a href="#-tech-stack">
+<img src="https://img.shields.io/badge/Tech_Stack-00F7FF?style=for-the-badge" />
+</a>
+
+<a href="#-featured-projects">
+<img src="https://img.shields.io/badge/Projects-00F7FF?style=for-the-badge" />
+</a>
+
+<a href="#-experience">
+<img src="https://img.shields.io/badge/Experience-00F7FF?style=for-the-badge" />
+</a>
+
+<a href="#-education">
+<img src="https://img.shields.io/badge/Education-00F7FF?style=for-the-badge" />
+</a>
+
+<br>
+
+<a href="#-certifications--simulations">
+<img src="https://img.shields.io/badge/Certifications-00F7FF?style=for-the-badge" />
+</a>
+
+<a href="#-core-skills">
+<img src="https://img.shields.io/badge/Skills-00F7FF?style=for-the-badge" />
+</a>
+
+<a href="#-what-im-currently-learning">
+<img src="https://img.shields.io/badge/Learning-00F7FF?style=for-the-badge" />
+</a>
+
+<a href="#-github-activity">
+<img src="https://img.shields.io/badge/GitHub_Stats-00F7FF?style=for-the-badge" />
+</a>
+
+<a href="#-connect-with-me">
+<img src="https://img.shields.io/badge/Contact-00F7FF?style=for-the-badge" />
+</a>
+
+</div>
+
+---
+
+# 🧑‍💻 About Me
 
 I'm **Sakthivel T**, a **B.Tech Artificial Intelligence & Data Science graduate** and aspiring **Java Full Stack Developer** passionate about building modern, scalable and intelligent applications.
 
@@ -34,16 +84,16 @@ I enjoy turning ideas into practical applications by combining:
 
 > 💡 **My goal:** Build software that is not only functional, but also intuitive, scalable and visually engaging.
 
+[⬆️ Back to Navigation](#-navigation)
+
 ---
 
 # 🛠️ Tech Stack
 
 ## 💻 Programming Languages
 
-<p align="left">
-
+<p>
 <img src="https://skillicons.dev/icons?i=java,python,javascript,html,css" />
-
 </p>
 
 | Language     | Level / Usage              |
@@ -144,84 +194,9 @@ I enjoy turning ideas into practical applications by combining:
 * JSON
 * API Integration
 
+[⬆️ Back to Navigation](#-navigation)
+
 ---
-
-# 📊 My Skill Overview
-
-<div align="center">
-
-### ☕ Java
-
-**Full Stack Development**
-
-`Java` `Spring` `Spring Boot` `JSP` `Servlets` `JDBC`
-
-<br>
-
-### ⚡ JavaScript
-
-**Web Development**
-
-`JavaScript` `React.js` `HTML` `CSS` `Responsive UI`
-
-<br>
-
-### 🐍 Python
-
-**AI / ML**
-
-`Python` `Machine Learning` `Deep Learning` `XAI`
-
-<br>
-
-### ⚛️ React.js
-
-**Frontend Development**
-
-`React.js` `JavaScript` `HTML5` `CSS3` `UI Development`
-
-<br>
-
-### 🌱 Spring Boot
-
-**Backend Development**
-
-`Spring` `Spring Boot` `REST APIs` `JDBC` `DAO`
-
-<br>
-
-### 🗄️ MySQL
-
-**Database Development**
-
-`MySQL` `SQL` `CRUD` `Database Design` `Data Management`
-
-<br>
-
-### 🔗 Git & GitHub
-
-**Version Control**
-
-`Git` `GitHub` `Repository Management` `Collaboration`
-
-<br>
-
-### 🤖 AI / ML
-
-**Artificial Intelligence**
-
-`Machine Learning` `Deep Learning` `Explainable AI` `Generative AI`
-
-<br>
-
-### ✨ Generative AI
-
-**AI-Powered Applications**
-
-`Google Gemini AI` `LLM Applications` `Prompt Engineering` `AI APIs`
-
-</div>
-
 
 # 🚀 Featured Projects
 
@@ -245,11 +220,11 @@ I enjoy turning ideas into practical applications by combining:
 
 ### 🔗 Repository
 
-[![GitHub](https://img.shields.io/badge/View%20Project-GitHub-181717?style=for-the-badge\&logo=github)](https://github.com/sakthivelTJ/AI-TRAVEL-PLANNER)
+[![View Project](https://img.shields.io/badge/View_Project-GitHub-181717?style=for-the-badge\&logo=github)](https://github.com/sakthivelTJ/AI-TRAVEL-PLANNER)
 
 ---
 
-# 🫀 Explainable AI for Cardiac Diagnosis
+## 🫀 Explainable AI for Cardiac Diagnosis
 
 > **Machine Learning + Explainable AI system for cardiac disease analysis**
 
@@ -268,11 +243,11 @@ I enjoy turning ideas into practical applications by combining:
 
 ### 🔗 Repository
 
-[![GitHub](https://img.shields.io/badge/View%20Project-GitHub-181717?style=for-the-badge\&logo=github)](https://github.com/sakthivelTJ/Explainable-AI-For-Cardiac-Diagnosis)
+[![View Project](https://img.shields.io/badge/View_Project-GitHub-181717?style=for-the-badge\&logo=github)](https://github.com/sakthivelTJ/Explainable-AI-For-Cardiac-Diagnosis)
 
 ---
 
-# 🍔 ClickChow — Food Delivery Application
+## 🍔 ClickChow — Food Delivery Application
 
 > **Full Stack food delivery web application**
 
@@ -308,6 +283,8 @@ JDBC
 MySQL Database
 ```
 
+[⬆️ Back to Navigation](#-navigation)
+
 ---
 
 # 💼 Experience
@@ -324,6 +301,8 @@ MySQL Database
 * Web Application Development
 * Problem Solving
 
+[⬆️ Back to Navigation](#-navigation)
+
 ---
 
 # 🎓 Education
@@ -333,6 +312,8 @@ MySQL Database
 **Focus Areas**
 
 `Artificial Intelligence` · `Data Science` · `Machine Learning` · `Programming` · `Software Development`
+
+[⬆️ Back to Navigation](#-navigation)
 
 ---
 
@@ -351,11 +332,11 @@ MySQL Database
 * Tableau dashboard development
 * Business insights
 
+[⬆️ Back to Navigation](#-navigation)
+
 ---
 
 # 🧠 Core Skills
-
-<div align="center">
 
 | 💻 Development | 🤖 AI & Data     | 🗄️ Backend & DB |
 | -------------- | ---------------- | ---------------- |
@@ -366,7 +347,7 @@ MySQL Database
 | CSS            | Google Gemini AI | Supabase         |
 | JSP            | Deep Learning    | DAO              |
 
-</div>
+[⬆️ Back to Navigation](#-navigation)
 
 ---
 
@@ -383,6 +364,8 @@ MySQL Database
 🐳 Docker
 ☁️ Cloud & Deployment
 ```
+
+[⬆️ Back to Navigation](#-navigation)
 
 ---
 
@@ -415,6 +398,8 @@ MySQL Database
 ![Snake animation](https://raw.githubusercontent.com/sakthivelTJ/sakthivelTJ/output/github-contribution-grid-snake.svg)
 
 </div>
+
+[⬆️ Back to Navigation](#-navigation)
 
 ---
 
@@ -453,6 +438,8 @@ MySQL Database
                  │ Full Stack + AI   │
                  └───────────────────┘
 ```
+
+[⬆️ Back to Navigation](#-navigation)
 
 ---
 
