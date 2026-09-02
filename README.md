@@ -16,51 +16,50 @@
 </div>
 
 ---
-
 # 🧭 Navigation
 
 <div align="center">
 
 <a href="#-about-me">
-<img src="https://img.shields.io/badge/About_Me-00F7FF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/About_Me-161B22?style=for-the-badge&logoColor=white" />
 </a>
 
 <a href="#-tech-stack">
-<img src="https://img.shields.io/badge/Tech_Stack-00F7FF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Tech_Stack-161B22?style=for-the-badge&logoColor=white" />
 </a>
 
 <a href="#-featured-projects">
-<img src="https://img.shields.io/badge/Projects-00F7FF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Projects-161B22?style=for-the-badge&logoColor=white" />
 </a>
 
 <a href="#-experience">
-<img src="https://img.shields.io/badge/Experience-00F7FF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Experience-161B22?style=for-the-badge&logoColor=white" />
 </a>
 
 <a href="#-education">
-<img src="https://img.shields.io/badge/Education-00F7FF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Education-161B22?style=for-the-badge&logoColor=white" />
 </a>
 
 <br>
 
 <a href="#-certifications--simulations">
-<img src="https://img.shields.io/badge/Certifications-00F7FF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Certifications-161B22?style=for-the-badge&logoColor=white" />
 </a>
 
 <a href="#-core-skills">
-<img src="https://img.shields.io/badge/Skills-00F7FF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Skills-161B22?style=for-the-badge&logoColor=white" />
 </a>
 
 <a href="#-what-im-currently-learning">
-<img src="https://img.shields.io/badge/Learning-00F7FF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Learning-161B22?style=for-the-badge&logoColor=white" />
 </a>
 
 <a href="#-github-activity">
-<img src="https://img.shields.io/badge/GitHub_Stats-00F7FF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/GitHub_Stats-161B22?style=for-the-badge&logoColor=white" />
 </a>
 
 <a href="#-connect-with-me">
-<img src="https://img.shields.io/badge/Contact-00F7FF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Contact-161B22?style=for-the-badge&logoColor=white" />
 </a>
 
 </div>
